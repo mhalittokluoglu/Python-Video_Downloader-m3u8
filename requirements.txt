@@ -1,0 +1,4 @@
+#### Requirement List ####
+requests
+m3u8
+colorama
