@@ -5,11 +5,11 @@ This programs downloads videos which is encoded with m3u8 format.
 ### Install the requirements:
 - If you're using a virtual environment or windows: 
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ``` 
 - If you're not using virtual environment and you're using linux and did not specify any alias for pip 
 ```bash
-$ pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ---------------------------------------
 
@@ -22,14 +22,14 @@ $ pip3 install -r requirements.txt
 - At the end it uses ffmpeg so make sure you installed ffmpeg 
 - In linux you can do it by typing: 
 ```bash
-$ sudo apt install ffmpeg -y
+sudo apt install ffmpeg -y
 # And run the program by typing:
 # (Virtual environment and windows)
-$ python Video_Downloader.py
+python Video_Downloader.py
 ``` 
 or 
 ```bash
-$ python3 Video_Downloader.py
+python3 Video_Downloader.py
 ``` 
 - The [youtube video](https://youtu.be/kMX8wW0rdkY) which I made for this:
 https://youtu.be/kMX8wW0rdkY
